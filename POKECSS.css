@@ -1,0 +1,31 @@
+body {
+    
+    height: 500px;
+    background-image: url("https://w.wallhaven.cc/full/zx/wallhaven-zxdepy.png");
+    background-size: cover;
+    background-size: 3450px;
+
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background: rgba(252, 0, 0, 0.432);
+}
+
+.ILUS
+{
+background-color: rgba(0, 0, 0, 0.349);
+margin-left: 43%;
+}
+
+.NAME
+{
+    background-color: rgb(255, 217, 0);
+    margin-left: 45%;
+}
+.BUSCA
+{
+ background-color: rgb(252, 247, 0);
+ margin-left: 48%;
+}
